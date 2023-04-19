@@ -1,0 +1,21 @@
+Name: GeForce GTX 980 Ti, Brand: Nvidia, Memory: 6 , Price: 649
+Name: GeForce RTX 2080 Ti, Brand: Nvidia, Memory: 11 , Price: 1199
+Name: GeForce RTX 2080 Super, Brand: Nvidia, Memory: 8 , Price: 699
+Name: GeForce RTX 2070 Super, Brand: Nvidia, Memory: 8 , Price: 499
+Name: GeForce RTX 2060, Brand: Nvidia, Memory: 6 , Price: 349
+Name: GeForce GTX 1660 Ti, Brand: Nvidia, Memory: 6 , Price: 279
+Name: GeForce GTX 1650, Brand: Nvidia, Memory: 4 , Price: 149
+Name: GeForce RTX 3070, Brand: Nvidia, Memory: 8 , Price: 499
+Name: GeForce RTX 3080, Brand: Nvidia, Memory: 10 , Price: 699
+Name: GeForce RTX 3090, Brand: Nvidia, Memory: 24 , Price: 1499
+Name: AMD Radeon R9 Fury X, Brand: AMD, Memory: 4, Price: 649.0
+Name: AMD Radeon RX 480, Brand: AMD, Memory: 8, Price: 219.0
+Name: AMD Radeon RX Vega 64, Brand: AMD, Memory: 8, Price: 499.0
+Name: AMD Radeon VII, Brand: AMD, Memory: 16, Price: 699.0
+Name: AMD Radeon RX 5700 XT, Brand: AMD, Memory: 8, Price: 399.
+Name: MSI GeForce GTX 980 Ti GAMING 6G, Brand: MSI, Memory: 6, Price: 699.99
+Name: MSI GeForce GTX 1080 GAMING X 8G, Brand: MSI, Memory: 8, Price: 699.99
+Name: MSI Radeon RX 570 ARMOR 8G OC, Brand: MSI, Memory: 8, Price: 179.99
+Name: MSI GeForce RTX 2060 VENTUS XS 6G OC, Brand: MSI, Memory: 6, Price: 379.99
+Name: MSI GeForce RTX 3080 GAMING X TRIO 10G, Brand: MSI, Memory: 10, Price: 969.99
+Name: 12, Brand: 12, Memory: 12, Price: 12.0
